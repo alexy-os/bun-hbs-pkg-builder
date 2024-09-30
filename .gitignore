@@ -5,6 +5,7 @@ dist/
 .manual/
 bun.lockb
 node_modules/
+.gitignore
 
 # Logs
 
